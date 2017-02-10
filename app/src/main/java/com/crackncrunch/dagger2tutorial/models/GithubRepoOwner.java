@@ -1,5 +1,5 @@
 
-package com.testography.dagger2tutorial.models;
+package com.crackncrunch.dagger2tutorial.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

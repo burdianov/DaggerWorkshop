@@ -1,4 +1,4 @@
-package com.testography.dagger2tutorial.screens.home;
+package com.crackncrunch.dagger2tutorial.screens.home;
 
 import android.content.Context;
 import android.text.TextUtils;
@@ -6,9 +6,9 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.crackncrunch.dagger2tutorial.R;
+import com.crackncrunch.dagger2tutorial.models.GithubRepo;
 import com.squareup.picasso.Picasso;
-import com.testography.dagger2tutorial.R;
-import com.testography.dagger2tutorial.models.GithubRepo;
 
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;

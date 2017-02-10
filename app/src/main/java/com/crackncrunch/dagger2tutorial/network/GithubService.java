@@ -1,8 +1,8 @@
-package com.testography.dagger2tutorial.network;
+package com.crackncrunch.dagger2tutorial.network;
 
 
-import com.testography.dagger2tutorial.models.GithubRepo;
-import com.testography.dagger2tutorial.models.GithubUser;
+import com.crackncrunch.dagger2tutorial.models.GithubRepo;
+import com.crackncrunch.dagger2tutorial.models.GithubUser;
 
 import java.util.List;
 

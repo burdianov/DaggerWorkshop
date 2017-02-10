@@ -1,4 +1,4 @@
-package com.testography.dagger2tutorial.network;
+package com.crackncrunch.dagger2tutorial.network;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;

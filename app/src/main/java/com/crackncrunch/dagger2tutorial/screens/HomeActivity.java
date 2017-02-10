@@ -1,16 +1,16 @@
-package com.testography.dagger2tutorial.screens;
+package com.crackncrunch.dagger2tutorial.screens;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.crackncrunch.dagger2tutorial.GithubApplication;
+import com.crackncrunch.dagger2tutorial.R;
+import com.crackncrunch.dagger2tutorial.models.GithubRepo;
+import com.crackncrunch.dagger2tutorial.network.GithubService;
+import com.crackncrunch.dagger2tutorial.screens.home.AdapterRepos;
 import com.squareup.picasso.Picasso;
-import com.testography.dagger2tutorial.GithubApplication;
-import com.testography.dagger2tutorial.R;
-import com.testography.dagger2tutorial.models.GithubRepo;
-import com.testography.dagger2tutorial.network.GithubService;
-import com.testography.dagger2tutorial.screens.home.AdapterRepos;
 
 import java.util.List;
 

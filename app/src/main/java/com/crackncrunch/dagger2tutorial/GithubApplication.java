@@ -1,16 +1,16 @@
-package com.testography.dagger2tutorial;
+package com.crackncrunch.dagger2tutorial;
 
 import android.app.Activity;
 import android.app.Application;
 import android.content.Context;
 
+import com.crackncrunch.dagger2tutorial.managers.ConstantsManager;
+import com.crackncrunch.dagger2tutorial.network.DateTimeConverter;
+import com.crackncrunch.dagger2tutorial.network.GithubService;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.jakewharton.picasso.OkHttp3Downloader;
 import com.squareup.picasso.Picasso;
-import com.testography.dagger2tutorial.managers.ConstantsManager;
-import com.testography.dagger2tutorial.network.DateTimeConverter;
-import com.testography.dagger2tutorial.network.GithubService;
 
 import org.joda.time.DateTime;
 

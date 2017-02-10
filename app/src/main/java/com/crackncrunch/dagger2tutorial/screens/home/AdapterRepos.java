@@ -1,12 +1,12 @@
-package com.testography.dagger2tutorial.screens.home;
+package com.crackncrunch.dagger2tutorial.screens.home;
 
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
+import com.crackncrunch.dagger2tutorial.models.GithubRepo;
 import com.squareup.picasso.Picasso;
-import com.testography.dagger2tutorial.models.GithubRepo;
 
 import java.util.ArrayList;
 import java.util.Collection;
